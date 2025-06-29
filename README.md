@@ -62,4 +62,4 @@ Title,Price,Rating,Availability,Rating_Numeric
 "Tipping the Velvet","£53.74","One","In stock",1
 ...
 ```
->>>>>>> a032494 (Add Web Scraper Script)
+
