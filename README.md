@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-# books-scraper
+
+# books-scraper  🤖
 =======
-# 📚 Books to Scrape Web Scraper 🤖
+# 📚 Books to Scrape 
 
 A Python web scraper that extracts book data from [Books to Scrape](http://books.toscrape.com), a demo website designed for web scraping practice.
 
